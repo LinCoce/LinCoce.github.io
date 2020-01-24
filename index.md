@@ -1,7 +1,12 @@
-Hello and welcome to this blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
+欢迎来到林海健心个人博客，主要记录工作过程中代码、论文等相关思路与总结
 
-![Image of fast.ai logo](images/logo.png)
+- 各页面遵从 [Markdown](https://guides.github.com/features/mastering-markdown/) 语法
 
-## This is a title
+## 置顶
 
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
+添加精华文章..
+
+## TODO
+
+我也没想好放什么... 
+
